@@ -1102,7 +1102,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
+![](unnamed-chunk-31-1.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
@@ -1112,7 +1112,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
+![](unnamed-chunk-32-1.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
@@ -1122,7 +1122,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-33-1.png)<!-- -->
+![](unnamed-chunk-33-1.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
@@ -1132,7 +1132,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-33-2.png)<!-- -->
+![](unnamed-chunk-33-2.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
@@ -1144,7 +1144,7 @@ all_trips_v3 %>%
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->
+![](unnamed-chunk-34-1.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
@@ -1154,7 +1154,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->
+![](.../unnamed-chunk-35-1.png)<!-- -->
 
 ``` r
 all_trips_v3 %>%
