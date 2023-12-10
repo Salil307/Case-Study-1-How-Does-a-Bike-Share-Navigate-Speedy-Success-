@@ -1102,7 +1102,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/blob/main/Case_Study_1_files/figure-gfm/unnamed-chunk-31-1.png)
+![](Case_Study_1_files/figure-gfm/unnamed-chunk-31-1.png)
 
 ``` r
 all_trips_v3 %>%
