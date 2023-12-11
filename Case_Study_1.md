@@ -1103,7 +1103,7 @@ all_trips_v3 %>%
 ```
 ![unnamed-chunk-31-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/de43644c-34c5-4b13-95c0-71b5211574d5)
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-31-1.png)
+
 
 ``` r
 all_trips_v3 %>%
@@ -1113,7 +1113,7 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-32-1.png)
+![unnamed-chunk-32-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/c1a738d7-d3d9-4af7-a6c8-170326fedac6)
 
 ``` r
 all_trips_v3 %>%
@@ -1123,7 +1123,8 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-33-1.png)
+![unnamed-chunk-33-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/c46f248a-38ba-474e-9c8f-1267e99dec5b)
+
 
 ``` r
 all_trips_v3 %>%
@@ -1133,7 +1134,8 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-33-2.png)
+![unnamed-chunk-33-2](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/4cf47c5f-ded1-4d5d-963a-782ed2e4c63f)
+
 
 ``` r
 all_trips_v3 %>%
@@ -1145,7 +1147,8 @@ all_trips_v3 %>%
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-34-1.png)
+![unnamed-chunk-34-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/fd1cf84a-4e3c-4251-9281-9df5612b3d38)
+
 
 ``` r
 all_trips_v3 %>%
@@ -1155,7 +1158,8 @@ all_trips_v3 %>%
     geom_bar(position = "dodge", stat = "identity")
 ```
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-35-1.png)
+![unnamed-chunk-35-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/91f610de-8303-44af-971b-40865139036c)
+
 
 ``` r
 all_trips_v3 %>%
@@ -1164,8 +1168,8 @@ all_trips_v3 %>%
     ggplot(aes(x = month, y = average_ride_distance, fill = member_casual)) + 
     geom_bar(position = "dodge", stat = "identity")
 ```
+![unnamed-chunk-35-2](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/14de573b-77a7-4878-be00-e93f7771cdd7) \####
 
-![](Case_Study_1_files/figure-gfm/unnamed-chunk-35-2.png) \####
 Analysis:
 
 1.  It seems that the casual users travel nearly the same average
