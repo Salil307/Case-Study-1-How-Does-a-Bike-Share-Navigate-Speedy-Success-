@@ -1101,6 +1101,7 @@ all_trips_v3 %>%
     ggplot(aes(x = day_of_week, y = number_of_rides, fill = member_casual)) + 
     geom_bar(position = "dodge", stat = "identity")
 ```
+![unnamed-chunk-31-1](https://github.com/Salil307/Case-Study-1-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/82138341/de43644c-34c5-4b13-95c0-71b5211574d5)
 
 ![](Case_Study_1_files/figure-gfm/unnamed-chunk-31-1.png)
 
