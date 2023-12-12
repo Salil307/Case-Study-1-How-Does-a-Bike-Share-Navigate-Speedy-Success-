@@ -115,7 +115,7 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 
 #### 1. Download data and store it appropriately.
 
-Data was dowloaded from [this
+Data was downloaded from [this
 link](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 #### 2. Identify how it is organized.
